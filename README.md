@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bunny8055
+- 👋 Hi, I’m Aniket
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning JAVA
 
